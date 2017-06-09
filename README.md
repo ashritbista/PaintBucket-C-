@@ -2,7 +2,7 @@
 A paint bucket application that can load up a file, and fill sections of the same color (fill function).
 
 * Original image
-![](Assets/tux.bmp =100x)
+![](Assets/tux.bmp)
 
 * Pass 1 - Fill the middle
 ![Pass 1 - Fill the middle](Assets/tux-middle-fill-1.bmp "Pass 1 - Fill the middle")
