@@ -27,6 +27,16 @@
   <ItemGroup>
     <ClCompile Include="main.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <Image Include="..\Assets\tux-middle-fill-1.bmp" />
+    <Image Include="..\Assets\tux-outside-fill-3.bmp" />
+    <Image Include="..\Assets\tux-rest-fill-4.bmp" />
+    <Image Include="..\Assets\tux-triangle-fill-2.bmp" />
+    <Image Include="..\Assets\tux.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="..\README.md" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{717B5742-39F6-4622-9B92-3428F0FABB35}</ProjectGuid>
     <RootNamespace>PaintBucket</RootNamespace>
